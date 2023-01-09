@@ -1,0 +1,4 @@
+- Bread
+- Eggs
+- Avocado
+- Milk
