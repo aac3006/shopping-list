@@ -2,3 +2,7 @@
 - Eggs
 - Avocado
 - Milk
+- Chocolate
+- Cereals
+- Lettuce
+- Tomato
